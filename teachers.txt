@@ -1,0 +1,3 @@
+Jihad0000;Jihad;20;Computer Science;;
+Ali0001;Ali;33;Physics;Very interactive session!|Excellent understanding of the subject;11:30 AM - 2:15 PM,data structure,Friday|1:00AM,Quantum Physics,Monday
+Omar0002;Omar;25;Biology;Excellent understanding of the subject;
